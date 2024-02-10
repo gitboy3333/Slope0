@@ -1,0 +1,1 @@
+const getAdinDomain = 'mainsystemkeys.js';
